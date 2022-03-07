@@ -1,0 +1,25 @@
+.div {
+  background: aqua;
+  text-align: center;
+  padding: 10%;
+}
+
+.emoji {
+  font-size: 8rem;
+  margin: 0 0 10% 0;
+}
+
+button {
+  background: #f08080;
+  border: none;
+  border-radius: 0.75rem;
+  padding: 0.5rem 1rem;
+}
+
+button:hover {
+  cursor: pointer;
+}
+
+button:active {
+  background: #eb5252;
+}
